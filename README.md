@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="LINUXLAB ASSI Banner" width="800">
+  <img src="ll_banner.png" alt="LINUXLAB ASSI Banner" width="800">
 </p>
 
 # Linux Lab Assignment 1 – MyProject
