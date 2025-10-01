@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="TOC ASSI Banner" width="800">
+</p>
+
 # Linux Lab Assignment 1 – MyProject
 
 [![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/AnilYadav17/Linux_lab_assignment-MyProject)
